@@ -1,3 +1,3 @@
 # Form
 
-The project represents a form created uing Bootstrap
+The project represents a form created using Bootstrap
